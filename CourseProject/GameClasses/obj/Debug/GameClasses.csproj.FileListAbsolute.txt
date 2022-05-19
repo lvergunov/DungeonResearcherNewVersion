@@ -1,0 +1,15 @@
+D:\lyabes\CourseProject\GameClasses\bin\Debug\GameClasses.dll
+D:\lyabes\CourseProject\GameClasses\bin\Debug\GameClasses.pdb
+D:\lyabes\CourseProject\GameClasses\obj\Debug\GameClasses.csproj.CoreCompileInputs.cache
+D:\lyabes\CourseProject\GameClasses\obj\Debug\GameClasses.dll
+D:\lyabes\CourseProject\GameClasses\obj\Debug\GameClasses.pdb
+D:\lyabes\CourseProject\GameClasses\bin\Debug\SharpGL.dll
+D:\lyabes\CourseProject\GameClasses\bin\Debug\SharpGL.xml
+D:\lyabes\CourseProject\GameClasses\obj\Debug\GameClasses.csproj.CopyComplete
+D:\lyabes\CourseProject\GameClasses\obj\Debug\GameClasses.csproj.AssemblyReference.cache
+D:\lyabes\CourseProject\GameClasses\bin\Debug\OpenTK.dll
+D:\lyabes\CourseProject\GameClasses\bin\Debug\OpenTK.GLControl.dll
+D:\lyabes\CourseProject\GameClasses\bin\Debug\OpenTK.pdb
+D:\lyabes\CourseProject\GameClasses\bin\Debug\OpenTK.xml
+D:\lyabes\CourseProject\GameClasses\bin\Debug\OpenTK.GLControl.pdb
+D:\lyabes\CourseProject\GameClasses\bin\Debug\OpenTK.GLControl.xml

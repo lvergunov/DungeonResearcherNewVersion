@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "debd2777-f78a-475c-ae55-82c160cd7d12": {
+      "ProjectGuid": "debd2777-f78a-475c-ae55-82c160cd7d12",
+      "DisplayName": "DungeonResearcher",
+      "ColorIndex": 0
+    },
+    "a7ac4f57-1053-4df7-b0fc-374df045d41b": {
+      "ProjectGuid": "a7ac4f57-1053-4df7-b0fc-374df045d41b",
+      "DisplayName": "GameEngine",
+      "ColorIndex": 1
+    },
+    "c5b0d65f-955e-4e8d-84f1-092af4f9cbb7": {
+      "ProjectGuid": "c5b0d65f-955e-4e8d-84f1-092af4f9cbb7",
+      "DisplayName": "GameClasses",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

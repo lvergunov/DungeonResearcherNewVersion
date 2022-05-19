@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C5B0D65F-955E-4E8D-84F1-092AF4F9CBB7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GameClasses</RootNamespace>
+    <AssemblyName>GameClasses</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="OpenTK, Version=3.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.3.1.0\lib\net20\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK.GLControl, Version=3.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.GLControl.3.1.0\lib\net20\OpenTK.GLControl.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpGL, Version=3.1.1.0, Culture=neutral, PublicKeyToken=27fc851303210b27, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpGL.3.1.1\lib\net472\SharpGL.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Beings\Being.cs" />
+    <Compile Include="Beings\Decorators\HeroDecorator.cs" />
+    <Compile Include="Beings\Decorators\DamageDecorator.cs" />
+    <Compile Include="Beings\Decorators\HealthIncreaseDecorator.cs" />
+    <Compile Include="Beings\Decorators\SpeedDecorator.cs" />
+    <Compile Include="Beings\Enemy.cs" />
+    <Compile Include="Beings\Hero.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="Factory\BeingsFactory\BeingAbstractFactory.cs" />
+    <Compile Include="Factory\BeingsFactory\BeingFactory.cs" />
+    <Compile Include="Factory\DecoratorFactory\AbstractFactoryDecorator.cs" />
+    <Compile Include="Factory\DecoratorFactory\DecoratorsFactory.cs" />
+    <Compile Include="Factory\StuffFactory\AbstractGameElement.cs" />
+    <Compile Include="Factory\StuffFactory\ChestStuffFactory.cs" />
+    <Compile Include="Factory\StuffFactory\LetFactory.cs" />
+    <Compile Include="Factory\StuffFactory\LetsAbstractFactory.cs" />
+    <Compile Include="Factory\StuffFactory\WeaponAbstractFactory.cs" />
+    <Compile Include="Factory\StuffRandomiser.cs" />
+    <Compile Include="Factory\StuffFactory\WeaponFactory.cs" />
+    <Compile Include="GameMap\DangerousRoom.cs" />
+    <Compile Include="GameMap\Insertion.cs" />
+    <Compile Include="GameMap\IRectangularMap.cs" />
+    <Compile Include="GameMap\LevelExit.cs" />
+    <Compile Include="GameMap\RectangularGameMap.cs" />
+    <Compile Include="GameMap\Room.cs" />
+    <Compile Include="GameMap\RoomExit.cs" />
+    <Compile Include="GameObjects\IGenerable.cs" />
+    <Compile Include="GameObjects\LetsAndTraps\BaseBlock.cs" />
+    <Compile Include="GameObjects\LetsAndTraps\BlockOfPit.cs" />
+    <Compile Include="GameObjects\LetsAndTraps\BlockOfTrap.cs" />
+    <Compile Include="GameObjects\LetsAndTraps\BlockOfWall.cs" />
+    <Compile Include="GameObjects\Chests\AbstractChest.cs" />
+    <Compile Include="GameObjects\IInteractiveObject.cs" />
+    <Compile Include="GameObjects\IMovable.cs" />
+    <Compile Include="GameObjects\LetsAndTraps\ITrap.cs" />
+    <Compile Include="GameObjects\Poisons\AbstractHealthPoison.cs" />
+    <Compile Include="GameObjects\WeaponInChest.cs" />
+    <Compile Include="Game\DirectionOperations.cs" />
+    <Compile Include="Game\IDestroyable.cs" />
+    <Compile Include="Game\IGameComponents.cs" />
+    <Compile Include="Game\IObjectOnGameMap.cs" />
+    <Compile Include="ProcedureGeneration\Leaf.cs" />
+    <Compile Include="ProcedureGeneration\ProcedureGenerator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Weapons\AbstractWeapon.cs" />
+    <Compile Include="Weapons\Bullets\BulletClip.cs" />
+    <Compile Include="Weapons\ColdWeapons\ColdWeapon.cs" />
+    <Compile Include="Weapons\Bullets\BulletInFlight.cs" />
+    <Compile Include="Weapons\Bullets\IBullet.cs" />
+    <Compile Include="Weapons\IWeapon.cs" />
+    <Compile Include="Weapons\ShootingWeapons\ShootingWeapon.cs" />
+    <Compile Include="Weapons\Bullets\SimpleBullet.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

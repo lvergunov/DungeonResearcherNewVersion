@@ -1,0 +1,38 @@
+﻿<Window x:Class="DungeonResearcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DungeonResearcher"
+        xmlns:glWpfControl="clr-namespace:OpenTK.Wpf;assembly=GLWpfControl"
+        mc:Ignorable="d"
+        Title="Dungeon Researcher" KeyDown="Window_KeyDown"
+        WindowStartupLocation="CenterScreen" MinWidth="1000" MinHeight="850"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}">
+    <Grid >
+        <Grid x:Name="GameScreen">
+            <Image x:Name="BackgroundImage" Source="Images/backgr.png"/>
+            <StackPanel x:Name="Parameters" Height="120" VerticalAlignment="Bottom" Background="LightGray"
+                    Margin="30,0,30,10" Visibility="Hidden">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Images/heart.png" Margin="10,15,0,0" Width="30"/>
+                    <TextBlock Margin="10,15,0,0" HorizontalAlignment="Left" Text="Health"/>
+                    <TextBlock x:Name="HealthRate" Margin="10,15,0,0" Width="45"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Image Margin="10,15,0,0" Width="30"/>
+                    <TextBlock Margin="10,15,0,0" HorizontalAlignment="Left" Text="Weapon"/>
+                    <TextBlock x:Name="Weapon" Margin="10,15,0,0" Width="45"/>
+                </StackPanel>
+            </StackPanel>
+            <glWpfControl:GLWpfControl Visibility="Hidden"
+            x:Name="OpenTkControl" 
+            Render="OpenTkControl_OnRender"
+                  Loaded="OpenTkControl_Loaded" Panel.ZIndex="-1"/>
+            <Button x:Name="StartButton" Width="400" Height="100" Background="AliceBlue"
+                    Content="Click to play" Margin="300,577,300,157" 
+                    FontSize="40"
+                    Click="Button_Click_Start"/>
+        </Grid>
+    </Grid>
+</Window>

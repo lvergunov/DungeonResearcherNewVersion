@@ -1,0 +1,109 @@
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips.csprojAssemblyReference.cache
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\App.g.cs
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips_MarkupCompile.cache
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\GameEngine.dll
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\GameLibrary.dll
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\OpenTK.dll
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.dll
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\GameEngine.pdb
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\GameLibrary.pdb
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\OpenTK.pdb
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\OpenTK.xml
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.pdb
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.xml
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\MainWindow.g.cs
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips_MarkupCompile.lref
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\MainWindow.baml
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips.g.resources
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips.Properties.Resources.resources
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips.Resources.resources
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.GenerateResource.cache
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CopyComplete
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+D:\Documents\Projects\Freelancehunt_Данила_Храпуцкий\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\GameEngine.dll
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\GameLibrary.dll
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\OpenTK.dll
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.dll
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\GameEngine.pdb
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\GameLibrary.pdb
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\OpenTK.pdb
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\OpenTK.xml
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.xml
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips.csprojAssemblyReference.cache
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\MainWindow.g.cs
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\App.g.cs
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips_MarkupCompile.cache
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips_MarkupCompile.lref
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\MainWindow.baml
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips.g.resources
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips.Properties.Resources.resources
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips.Resources.resources
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.GenerateResource.cache
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CoreCompileInputs.cache
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CopyComplete
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+C:\Users\xddan\Downloads\BattleShips (4)\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\GameEngine.dll
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\GameLibrary.dll
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.dll
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.dll
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\GameEngine.pdb
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\GameLibrary.pdb
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.pdb
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.xml
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.xml
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.csprojAssemblyReference.cache
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\MainWindow.g.cs
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\App.g.cs
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips_MarkupCompile.cache
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips_MarkupCompile.lref
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\MainWindow.baml
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.g.resources
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.Properties.Resources.resources
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.Resources.resources
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.GenerateResource.cache
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CoreCompileInputs.cache
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CopyComplete
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+C:\Users\xddan\OneDrive\Рабочий стол\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\GameEngine.dll
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\GameLibrary.dll
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.dll
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.dll
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\GameEngine.pdb
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\GameLibrary.pdb
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.pdb
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.xml
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.pdb
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\bin\Debug\OpenTK.GLControl.xml
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.AssemblyReference.cache
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.SuggestedBindingRedirects.cache
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\MainWindow.g.cs
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\App.g.cs
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips_MarkupCompile.cache
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips_MarkupCompile.lref
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\MainWindow.baml
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.g.resources
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.Properties.Resources.resources
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.Resources.resources
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.GenerateResource.cache
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CoreCompileInputs.cache
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CopyComplete
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+D:\Exmple\Храпуцкий\BattleShips\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
